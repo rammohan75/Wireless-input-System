@@ -25,6 +25,7 @@ Our system leverages an **accelerometer sensor** to detect hand or wrist gesture
 │
 ├── main.c 
 │                 
+
 ├── docs/
 │   └── circuit-diagram.png   
 │   
